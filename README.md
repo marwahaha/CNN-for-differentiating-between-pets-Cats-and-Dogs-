@@ -1,5 +1,5 @@
 # CNN-for-differentiating-between-pets-Cats-and-Dogs-
-This Repo is for object classification coding practice. A simple dataset having 2 classes (10,000 images in total) is used to build different CNN architectures such as:
+This Repo is for object classification and detection coding practice. A simple dataset having 2 classes (10,000 images in total) is used to build different CNN architectures such as:
 
  - Simple CNN
  - Residual Networks (50 Layers)
